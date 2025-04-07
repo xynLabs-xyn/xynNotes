@@ -1,0 +1,6 @@
+# Ignore build files
+build/
+# Ignore preconverted icon that doesn't really need to be here, but now it is, deal with it.
+*.png
+# Test notes.json
+notes.json
