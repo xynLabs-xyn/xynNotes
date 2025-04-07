@@ -4,3 +4,5 @@ build/
 *.png
 # Test notes.json
 notes.json
+# Ignore release package zip
+*.zip
